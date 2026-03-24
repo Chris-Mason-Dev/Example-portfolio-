@@ -20,7 +20,7 @@ Welcome to this sample animated portfolio, built with react, vite and modern GSA
 ##  Build Actions
 
 1. Clone the repository:
-git clone https://github.com/chriscodelab/example-portfolio.git
+git clone https://github.com/chris-mason-dev/example-portfolio.git
 cd portofolio
 
 2. Install dependencies:
