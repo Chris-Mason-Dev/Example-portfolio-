@@ -1,61 +1,52 @@
-# Portofolio Web — [Faris Edrik P / rissss21]
+# Portfolio Animations — [Sample Animated portfolio]
 
-Selamat datang di portofolio web pribadi saya! 🌐  
-Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
+Welcome to this sample animated portfolio, built with react, vite and modern GSAP animations! 
 
-##  Struktur Project
+##  Project Structure 
 
-- `public/` — file statis (favicon, assets, dsb.)  
-- `src/` — code utama React (komponen, utilitas, dsb.)  
-- `index.html` — entry point halaman web  
-- `package.json` & `package-lock.json` — manajemen dependencies dan script  
-- `vite.config.js` — konfigurasi build dan dev server Vite  
-- `eslint.config.js` — aturan linting agar kodenya tetap bersih dan konsisten  
+- `public/` — (favicon, assets, lib.)  
+- `src/` — code - React (component, utilitas, lib.)  
+- `index.html` — compiled entry point for web  
+- `package.json` & `package-lock.json` — manage dependencies and build scripts  
+- `vite.config.js` — configure build with Vite dev server   
+- `eslint.config.js` — config for linting 
 
-##  Fitur Utama
+##  Stack
 
-- Dibangun dengan **React + Vite** — ringan, cepat reload, dan performa build optimal  
-- **ESLint** telah terkonfigurasi agar coding style tetap rapi  
-- Struktur modular dan siap dikembangkan—bisa ditambahkan halaman “About”, “Projects”, dsb.
+- **React + Vite** 
+- **ESLint**   
+- **Modular Structure** 
 
-##  Cara Jalankan
+##  Build Actions
 
-1. Clone repository ini:
-```bash
-git clone https://github.com/rissss21/portofolio.git
+1. Clone the repository:
+git clone https://github.com/chriscodelab/example-portfolio.git
 cd portofolio
-````
 
 2. Install dependencies:
-```bash
 npm install
-````
 
-3. Jalankan server lokal dengan hot reload:
-```bash
+3. Run the local server with hot reload:
 npm run dev
-````
 
-4. Buat versi production:
-```bash
+4. Create a production version:
 npm run build
-````
 
-## &#x20;Quick Preview
+## Quick Preview
 
-Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahkan link deploy di sini, misalnya:
-[🔗 Lihat versi live](https://username.github.io/portofolio/)
+If it has been deployed (e.g., GitHub Pages, Netlify, Vercel), you can add the deployment link here, for example:
+🔗 View the live version
 
-## Tentang Saya
+## About Me
 
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
-Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
+Hi, I’m Chris Mason (GitHub username: chriscodelab).
+I’m a Developer who enjoys creating lightweight web applications with modern design and high performance. Just scroll through my projects, and feel free to reach out if you have any questions!
 
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
-* **Instagram:** @farisedrikprayoga
+* **Email:** email\code.mason@icloud.com
+* **LinkedIn:** linkedin.com/in/chriscodelab
+* **Instagram:** @chrisinkmason
 
----
+—
 
 
-[1]: https://github.com/rissss21/portofolio "GitHub - rissss21/portofolio"
+[1]: https://github.com/chriscodelab/sample-portfolio “GitHub - chriscodelab/sample-portfolio”
